@@ -1,4 +1,4 @@
-# 🚢 Startup Bust - A Console-Based Battleship Game in Java
+# 🚢 Sinkship - A Console-Based Battleship Game in Java
 
 **Startup Bust** is a classic text-based strategy game built in Java, inspired by *Battleship*. Your mission is to **sink three tech startups** by guessing their hidden locations on a 7x7 grid.
 
